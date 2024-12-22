@@ -2,7 +2,7 @@
 <!--
   Tinted GtkSourceView Base16 Deep Oceanic Next Color Scheme
 
-  Deep Oceanic Next Color Scheme by spearkkk (https://github.com/spearkkk/deep-oceanic-next)
+  Deep Oceanic Next Color Scheme by spearkkk (https://github.com/spearkkk)
 
   Tinted GTKSourceView by Rob Loach (https://robloach.net)
   https://github.com/robloach/tinted-gtksourceview
@@ -24,26 +24,26 @@
 -->
 
 <style-scheme id="base16-deep-oceanic-next" _name="Base16 Deep Oceanic Next" version="1.0">
-    <author>spearkkk (https://github.com/spearkkk/deep-oceanic-next)</author>
+    <author>spearkkk (https://github.com/spearkkk)</author>
     <_description></_description>
 
     <!-- Solarized Palette -->
-    <color name="base00" value="#003b46" />
-    <color name="base01" value="#004f5e" />
-    <color name="base02" value="#006374" />
-    <color name="base03" value="#007a8a" />
+    <color name="base00" value="#001c1f" />
+    <color name="base01" value="#002931" />
+    <color name="base02" value="#003640" />
+    <color name="base03" value="#004852" />
     <color name="base04" value="#0093a3" />
-    <color name="base05" value="#dce3e8" />
-    <color name="base06" value="#e6ebf0" />
-    <color name="base07" value="#f0f5f5" />
-    <color name="base08" value="#e6454b" />
-    <color name="base09" value="#ff6a4b" />
-    <color name="base0A" value="#ffcc66" />
-    <color name="base0B" value="#85b57a" />
-    <color name="base0C" value="#4da6a6" />
-    <color name="base0D" value="#3a82e6" />
-    <color name="base0E" value="#8c4de6" />
-    <color name="base0F" value="#e673a3" />
+    <color name="base05" value="#d4e1e8" />
+    <color name="base06" value="#e0e9ef" />
+    <color name="base07" value="#f2f7f9" />
+    <color name="base08" value="#d3464d" />
+    <color name="base09" value="#e37552" />
+    <color name="base0A" value="#f3b863" />
+    <color name="base0B" value="#63b784" />
+    <color name="base0C" value="#4fb7ae" />
+    <color name="base0D" value="#568ccf" />
+    <color name="base0E" value="#8b66d6" />
+    <color name="base0F" value="#d0658e" />
 
     <!-- Global Settings -->
     <style name="text"                          foreground="base05" background="base00" />
